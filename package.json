@@ -1,0 +1,22 @@
+{
+  "name": "API-JSONWebToken-Auth-MEAN",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "express-jwt": "*",
+    "express-validator": "*",
+    "jade": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "serve-favicon": "*"
+  }
+}

@@ -1,0 +1,9 @@
+# IDE files
+.idea/
+#Node_modules
+node_modules/
+
+MEANAuth-JSonWEBToken.iml
+
+
+
