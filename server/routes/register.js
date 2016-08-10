@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var Users = require('../models/users');
+var Users = require('./users');
 
 /* POST /api/register/ */
 router.post('/', function (req, res, next) {
